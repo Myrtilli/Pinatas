@@ -1,0 +1,14 @@
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\bin\Debug\net8.0\Pinatas.exe
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\bin\Debug\net8.0\Pinatas.deps.json
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\bin\Debug\net8.0\Pinatas.runtimeconfig.json
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\bin\Debug\net8.0\Pinatas.dll
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\bin\Debug\net8.0\Pinatas.pdb
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\Pinatas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\Pinatas.AssemblyInfoInputs.cache
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\Pinatas.AssemblyInfo.cs
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\Pinatas.csproj.CoreCompileInputs.cache
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\Pinatas.dll
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\refint\Pinatas.dll
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\Pinatas.pdb
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\Pinatas.genruntimeconfig.cache
+D:\DistributedLabTest\Pinatas\Pinatas\Pinatas\obj\Debug\net8.0\ref\Pinatas.dll
